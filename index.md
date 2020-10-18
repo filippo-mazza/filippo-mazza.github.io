@@ -1,8 +1,13 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/filippo-mazza/filippo-mazza.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Hi, this is my personal web page on Github ! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a data scientist and researcher focused on using machine learning for businesses. I love deep learning, data mining, information retrieval, network analysis, and active learning. 
+
+### What I do
+I am currently working in the Big Data Threat Analytics team of Huawei, in the German Research Center in Munich.
+
+
 
 ### Markdown
 
